@@ -39,11 +39,6 @@ app.use(function(err, req, res, next) {
 });
 
 
-/*
-//Start Here
-
-
- */
 
 
 module.exports = app;
